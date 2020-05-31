@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+<style>
+
+#ma{
+border-left:1px solid grey;
+border-bottom:1px solid grey;
+padding:5px;
+}
+.circle{
+font-family:'Roboto', sans-serif;
+margin-bottom:25px;
+}
+summary{
+font-size:20px;
+font-weight:bold;
+border-top:1px solid #fa4242;
+border-right:1px solid #fa4242;
+padding-top:2px; }
+
+
+
+</style>
+
+</head>
+<body>
+<div id="ma">
+<details class="circle">
+
+<summary>What is QUARAN-KEY?</summary>
+<p>QUARAN-KEY is an online exchange program connecting students from various countries. Students, guided by their tutor, are aiming to think and innovate new ideas to minimize epidemics impacts on our planet in addition to learning the right research methods and gaining a substantial amount of knowledge throughout the process.</p>
+
+</details>
+<details class="circle">
+
+<summary>What is QUARANCOVID-19?</summary>
+<p>A section provided featuring information about COVID-19 from various sources needed for the candidates to start. These sources are including data from international authorized websites and open-source data from space agencies such as NASA. The information will be utilized later in the process of researching in each project.</p>
+
+</details>
+
+<details class="circle">
+
+<summary>What are the program requirements?</summary>
+<p>The applicants' age should range from 15 to 18 years old. They need to be fluent in English, speaking and writing in particular.</p>
+
+</details>
+<details class="circle">
+
+<summary>After admission, how do I know my selection status afterwards?</summary>
+<p>The applications decisions are sent by e-mails.</p>
+
+</details>
+<details class="circle">
+
+<summary>When will I be informed of my selection status?</summary>
+<p>You will be informed with the decision within a week after the deadline.</p>
+
+</details>
+<details class="circle">
+
+<summary>Is it considered mandatory to have a good background about COVID-19 to apply?</summary>
+<p>No, you will find any information you need in the QUARANCOVID-19 section.</p>
+
+</details>
+<details class="circle">
+
+<summary>What are the costs of the program?</summary>
+<p>The program is totally free.</p>
+
+</details>
+<details class="circle">
+
+<summary>What is the selection process alike?</summary>
+<p>First, You need to fill the application; then, if you are qualified, an interview will be conducted, being the final selection stage.</p>
+
+</details>
+<details class="circle">
+
+<summary>​What is the tutor responsible to do?</summary>
+<p>Every group's tutor is responsible for guiding the group members towards reaching their goal. Every tutor will fully invest his knowledge and time into helping his family and guide them whenever they get confused.</p>
+
+</details>
+
+<details class="circle">
+
+<summary>Can I apply for the tutor role?</summary>
+<p>Of course! Send us an email, and we will get back to you with the documents needed.</p>
+
+</details>
+<details class="circle">
+
+<summary>What is the duration of the program?</summary>
+<p>Two months with an expected commitment of 3 hours per week.</p>
+</details>
+</div>
+
+</body>
+</html>
